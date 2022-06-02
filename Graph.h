@@ -1,6 +1,6 @@
 //////// file header /////////////////////////////////////
 // name: Hadeid Mirza
-// id: ahmirza@wisc.edu (9082655383)
+// id: ahmirza@wisc.edu 
 // brief description: Graph.h file contains all the function
 // prototypes and definitions for the templated Graph class.  
 // references used: none

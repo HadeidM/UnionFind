@@ -1,6 +1,6 @@
 //////// file header /////////////////////////////////////
 // name: Hadeid Mirza
-// id: ahmirza@wisc.edu (9082655383)
+// id: ahmirza@wisc.edu 
 // brief description: This demo source file demoes the 
 // functionality of the UnionFind data structure  
 // references used: none

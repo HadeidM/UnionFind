@@ -1,6 +1,6 @@
 <!-- FILE HEADER -->
 <!-- NAME: HADEID MIRZA -->
-<!-- ID: ahmirza@wisc.edu, 9082655383     -->
+<!-- ID: ahmirza@wisc.edu -->
 <!-- DESCRIPTION: This program demoes the functionality of the UnionFind data structure that I have implemented --> 
 <!-- REFERENCES:  NONE  -->
 

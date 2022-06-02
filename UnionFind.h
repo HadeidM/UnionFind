@@ -1,6 +1,6 @@
 //////// file header /////////////////////////////////////
 // name: Hadeid Mirza
-// id: ahmirza@wisc.edu (9082655383)
+// id: ahmirza@wisc.edu
 // brief description: This header file contains all the 
 // function definitions for the templated class UnionFind 
 // references used: none
