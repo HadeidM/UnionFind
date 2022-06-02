@@ -18,7 +18,7 @@
 - You can also use `make` to **build and run** demo executable at the same time.
 
 ## Organization of code 
-- The header files `SetUF.h`, `UnionFind.h`, and `Graph.h` contains all function definitions of the templated classes SetUF, UnionFind, and Graph.
+- The header files `SetUF.h`, `UnionFind.h`, and `Graph.h` contain all function definitions of the templated classes SetUF, UnionFind, and Graph.
 - `demo.cpp` contains code that is used to demo the functionality of the data strucure
 
 
