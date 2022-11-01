@@ -1,6 +1,5 @@
 # // FILE HEADER //
 # Name:        Hadeid Mirza
-# Student ID:  9082655383, ahmirza@wisc.edu
 # Description: This program demoes the functionality of the UnionFind data structure using graphs and 
 #			   using a containsCycle method
 # Sources:     None
